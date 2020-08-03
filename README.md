@@ -15,5 +15,5 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Contributors
 Team Name: [Starters](https://datahack.analyticsvidhya.com/teams/starters-2) \
-[Snehal Lokesh](https://github.com/snehallokesh) 
+[Snehal Lokesh](https://github.com/snehallokesh) \
 [Ananta Arora](https://github.com/anantaarora)
